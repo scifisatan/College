@@ -1,3 +1,5 @@
+//Bitwise and or and xor
+
 #include <stdio.h>
 int main()
 {
