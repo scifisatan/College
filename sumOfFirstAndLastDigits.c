@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-void main(){
-int a;
+void main(){int a;
 printf("Enter a number: ");
 scanf("%d",&a);
 int d=floor(log10(abs(a!=0?a:1)))+1;
